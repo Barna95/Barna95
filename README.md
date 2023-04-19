@@ -5,8 +5,10 @@
 - 📫 If you have any questions, feel free to contact me!
 - 📧 E-mail: elvehess892@gmail.com
 
+<p>
 <a href="https://github.com/Barna95" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/barnab%C3%A1s-b%C3%A1lint/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 <h3>Technologies I code with</h3>
 <p>
