@@ -28,6 +28,6 @@
  <p>
    <a href="https://github.com/Barna95">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=barna95&show_icons=true&theme=dark&include_all_commits=true&count_private=true%22"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barna95&show_icons=true&theme=dark&layout=compact&exclude_repo=nba-stats-codeigniter&hide=css,html" alt="anthonymogotlane" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barna95&show_icons=true&theme=dark&layout=compact&exclude_repo=nba-stats-codeigniter&hide=css,html" />
   </a>
 </p>
